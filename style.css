@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Cabeçalho{
+    background-color: rgb(255, 81, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.Cabeçalho-imagem{
+    width: 50%;
+}
+
+.Cabeçalho-item{
+    margin: 0 16%;
+font-size: 18px;
+}
+.texto1{
+    color: darkblue;
+    font-size: 76px;
+}
+.texto2{
+    color: crimson;
+    font-size: 58px;
+}
+.texto3{
+    color: gold;
+    font-size: 46px;
+}
